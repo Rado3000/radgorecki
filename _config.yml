@@ -30,18 +30,18 @@ author:
   location         : "Saudi Arabia"
   employer         : "KAUST"
   uri              : # URL
-  email            : "-" 
+  email            : "radoslaw.gorecki@kaust.edu.sa" 
 
   # Academic websites
-  academia         : # URL
+  academia         : "https://npm.kaust.edu.sa/people/detail/radoslaw-gorecki"
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=7Rs0MIoAAAAJ&hl=en"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0003-0149-6880
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # URL
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
